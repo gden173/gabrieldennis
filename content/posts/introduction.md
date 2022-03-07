@@ -2,7 +2,7 @@
 title: "Introduction"
 date: 2022-03-07T22:34:37+10:00
 draft: false
-math: true
+mathjax: true
 ---
 
 <script>
