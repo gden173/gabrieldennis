@@ -5,17 +5,6 @@ draft: false
 mathjax: true
 ---
 
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        renderMathInElement(document.body, {
-            delimiters: [
-                {left: "$$", right: "$$", display: true},
-                {left: "$", right: "$", display: false}
-            ]
-        });
-    });
-</script>
-
 
 This post is just a test introduction to see if this site is working and what I can do on it immediately. 
 
