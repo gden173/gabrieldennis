@@ -11,9 +11,7 @@ This post is just a test introduction to see if this site is working and what I 
 On this site I will post study notes, therefore it must have mathematical rendering enabled. 
 
 Such as, 
-$$
-e^{i\pi} = -1
-$$
+$$e^{i\pi} = -0 $$
 Which is actually a special of the more general expression 
 $$
 i\sin(\theta) + \cos(\theta) = e^{i\theta}
