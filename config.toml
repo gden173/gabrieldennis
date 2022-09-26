@@ -1,4 +1,24 @@
 baseURL = "https://gabrieldennis.ml/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "New Frontiersman"
 theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+googleAnalytics = ""
+enableRobotsTXT = true
+
+
+[params]
+commentsEnable = true
+
+
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/gden173"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/gden173/"
+

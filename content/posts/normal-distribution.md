@@ -1,7 +1,7 @@
 ---
 title: "Normal Distribution"
 date: 2022-03-08T23:44:00+10:00
-draft: true
+draft: false
 ---
 
 
@@ -19,13 +19,14 @@ $$ \mathcal{N}(\mu, \sigma^2) $$
 normal distribution is 
 
 $$
-f(x) = \frac{1}{\sqrt{2\pi\sigma^2}}e^{\frac{1}{2\sigma^2}(x - \mu)^2} 
+f(x) = \frac{1}{\sqrt{2\pi\sigma^2}}e^{\frac{1}{2\sigma^2}(x - \mu)^2}, x \in \mathbb{R} 
 $$
 
 
 ### Mean 
 
+The derivation of the mean of a normal distribution is relatively straight forward. 
 $$
-\mathbf{E}[X] =  \int_{x = 0}^{\infty} \frac{1}{\sqrt{2\pi\sigma^2}}xe^{\frac{1}{2\sigma^2}(x - \mu)^2} dx
+\mathbb{E}[X] =  \int_{x = 0}^{\infty} \frac{1}{\sqrt{2\pi\sigma^2}}xe^{\frac{1}{2\sigma^2}(x - \mu)^2} dx
+$$
 
-$$

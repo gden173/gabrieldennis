@@ -17,12 +17,4 @@ $$
 i\sin(\theta) + \cos(\theta) = e^{i\theta}
 $$
 
-$$
-\begin{align}
-f &=1
-y &=2
-
-\end{align}
-
-$$
 
