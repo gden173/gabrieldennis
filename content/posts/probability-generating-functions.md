@@ -1,7 +1,7 @@
 ---
 title: "Probability Generating Functions"
 date: 2022-03-08T22:15:07+10:00
-draft: false
+draft: true
 mathjax: true
 ---
 

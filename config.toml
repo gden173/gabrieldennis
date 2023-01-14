@@ -1,6 +1,6 @@
 baseURL = "https://gabrieldennis.ml/"
 languageCode = "en-us"
-title = "New Frontiersman"
+title = "LBFGS"
 theme = "ananke"
 
 DefaultContentLanguage = "en"

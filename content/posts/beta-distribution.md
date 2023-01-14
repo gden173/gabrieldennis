@@ -29,7 +29,7 @@ $$
 B(\alpha, \beta) = \frac{\Gamma(\alpha) \Gamma(\beta)}{\Gamma(\alpha + \beta)} = \int_{0}^{\infty} t^{\alpha - 1} (1 - t)^{\beta - 1}dt
 $$
 
-This releationship then allows for a relatively easy derivation of $\mathbb{E}[X], Var(X)$ as well as the mode of a beta distribution.
+This relationship then allows for a relatively easy derivation of $\mathbb{E}[X], Var(X)$ as well as the mode of a beta distribution.
 $$
 \begin{aligned}
 	\mathbb{E}[X] =& \frac{1}{B(\alpha, \beta)}\int_{0}^{1} x^{\alpha }(1 - x)^{\beta - 1} dx \\

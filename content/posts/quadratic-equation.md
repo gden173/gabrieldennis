@@ -2,7 +2,7 @@
 title: "Quadratic Equation"
 date: 2022-09-26T21:31:24+10:00
 mathjax: true
-draft: false
+draft: true
 ---
 
 # Introduction  
