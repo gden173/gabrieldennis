@@ -22,6 +22,13 @@ weight = 20
 identifier = "resume"
 url="/resume"
 
+[[menu.main]]
+name = "tags"
+weight = 20
+identifier = "tags"
+url="/tags"
+
+
 [params]
 commentsEnable = true
 
