@@ -1,7 +1,7 @@
 ---
 title: "Bernoulli and Geometric Distribution PGF"
 date: 2022-03-08T22:15:07+10:00
-draft: true
+draft: false
 mathjax: true
 tags: ["maths", "probability", "probability generating functions"]
 ---
