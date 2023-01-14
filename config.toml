@@ -9,9 +9,21 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 
+
+[[menu.main]]
+name = "posts"
+weight = 20
+identifier = "posts"
+url = "/posts"
+
+[[menu.main]]
+name = "resume"
+weight = 20
+identifier = "resume"
+url="/resume"
+
 [params]
 commentsEnable = true
-
 
 
 [[params.ananke_socials]]

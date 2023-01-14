@@ -9,8 +9,7 @@ draft: false
 
 This short post contains links to my honours thesis and honours presentation.  
 The topic of my thesis was to create a computational structure for a
-semi-parametric vector generalized linear model. This was based on earlier work
-of my supervisor, who had built up the theoretical framework for this model
+semi-parametric vector generalized linear model. This was based on the earlier work of my supervisor, who had built up the theoretical framework for this model
 over a series of papers with other collaborators.
 
 
