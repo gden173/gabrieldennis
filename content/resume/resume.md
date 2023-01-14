@@ -2,6 +2,7 @@
 title: "Resume"
 date: 2023-01-14T19:08:51+10:00
 draft: false
+tags: [resume]
 ---
 
 

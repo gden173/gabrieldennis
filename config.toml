@@ -25,7 +25,6 @@ url="/resume"
 [params]
 commentsEnable = true
 
-
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/gden173"

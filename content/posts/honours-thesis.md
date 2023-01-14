@@ -2,6 +2,7 @@
 title: "Honours Thesis"
 date: 2023-01-14T18:39:00+10:00
 draft: false
+tags: ["maths", "statistics"]
 ---
 
 
