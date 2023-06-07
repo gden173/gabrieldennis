@@ -29,7 +29,10 @@ The following links contain some of my work on this topic.
 - [Honours Thesis](/honoursthesis.pdf)
 - [Honours Talk Slides](/honourstalkslides.pdf)
 - [Honours Defence Slides](/honourstalkdefenceslides.pdf)
+- [VSPGLM Talk](/d61-presentation.pdf)
 - [MATLAB Code](https://github.com/gden173/vspglm)
+
+
 
 
 
