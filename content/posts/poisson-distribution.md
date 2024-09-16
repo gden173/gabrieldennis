@@ -23,9 +23,24 @@ The Probability Generating function of a Poisson Distribution has the following 
 
 $$
 \begin{aligned}
-\mathcal{G}\_{X} &= \sum_{k = 0}^{\infty} \\\\ 
-                 &= \sum_{k = 0}^{\infty} 
+\mathcal{G}\_{X}(z) &= \sum_{k = 1}^{\infty} z^k\frac{\lambda^k e^{-\lambda}}{k!} \\\\ 
+                 &= e^{-\lambda}\sum_{k = 1}^{\infty} \frac{(\lambda z)^{k}}{k!} \\\\
+                 &= e^{-\lambda}e^{\lambda z} \\\\
+                 &= e^{\lambda(z - 1)} 
 \end{aligned}
 $$
+
+Hence, 
+
+$$
+\begin{aligned}
+	\mathbb{E}[X] &= \mathcal{G}'(1) \\\\
+                      &= |_{z = 1} \lambda e^{\lambda(z -1)}  \\\\
+                      &= \lambda
+\end{aligned}
+$$
+
+
+
 
 
