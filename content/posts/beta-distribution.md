@@ -1,7 +1,7 @@
 ---
 title: "Beta Distribution"
 date: 2022-03-29T22:25:22+10:00
-draft: true
+draft: false
 mathjax: true
 ---
 

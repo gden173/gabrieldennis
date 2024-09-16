@@ -1,7 +1,8 @@
 ---
 title: "Normal Distribution"
 date: 2022-03-08T23:44:00+10:00
-draft: true
+tags: ["statistics", "distributions", "maths"]
+draft: false
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: "Poisson distribution"
 date: 2023-01-15T22:02:22+10:00
-draft: true
+draft: false
+tags: ["statistics", "distributions"]
 mathjax: true 
 ---
 
