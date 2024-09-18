@@ -10,5 +10,5 @@ tags: [resume]
 
 The following link contains a version of my resume.
 
-- [Resume](/resume.pdf)
+{{% link "resume.pdf" %}}Download my resume{{% /link %}}
 

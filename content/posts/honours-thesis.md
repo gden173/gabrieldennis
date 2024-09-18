@@ -8,15 +8,16 @@ tags: ["maths", "statistics"]
 
 # Honours Thesis 
 
-This short post contains links to my honours thesis and honours presentation.  
+This short post contains links to my honours thesis and honours presentation.
 The topic of my thesis was to create a computational structure for a
-semi-parametric vector generalized linear model. This was based on the earlier work of my supervisor, who had built up the theoretical framework for this model
-over a series of papers with other collaborators.
+semi-parametric vector generalized linear model. This was based on the earlier
+work of my supervisor, who had built up the theoretical framework for this
+model over a series of papers with other collaborators.
 
 
 ## Papers 
 
-- https://www.tandfonline.com/doi/abs/10.1080/01621459.2013.824892
+- [Original Paper](https://www.tandfonline.com/doi/abs/10.1080/01621459.2013.824892)
 
 ## R Package for Univariate Case 
 
